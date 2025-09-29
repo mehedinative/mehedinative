@@ -46,13 +46,6 @@ I am always learning, exploring modern technologies, and open to collaboration o
 - **RESTful API Development & Integration**  
 - **Cloud Databases & Web Hosting Optimization**  
 
----
-
-### 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mehedinative)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mehedi4556/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mehedi.cse.inf/)  
 
 ---
 
