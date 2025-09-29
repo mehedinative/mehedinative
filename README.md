@@ -30,8 +30,8 @@ I am always learning, exploring modern technologies, and open to collaboration o
 
 | Category      | Tools / Technologies |
 |---------------|----------------------|
-| **Frontend**   | HTML5, CSS3, JavaScript (Core), Bootstrap |
-| **Backend**    | PHP (Core), Node.js, REST APIs |
+| **Frontend**   | HTML5, CSS3, JavaScript, Bootstrap |
+| **Backend**    | PHP, Node.js, REST APIs |
 | **Database**   | MySQL, Firebase Firestore, SQLite |
 | **Web Tools**  | AJAX, JSON, XML |
 | **Versioning** | Git, GitHub |
@@ -50,7 +50,7 @@ I am always learning, exploring modern technologies, and open to collaboration o
 
 ### 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mehediinf)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mehedinative)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mehedi4556/)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mehedi.cse.inf/)  
 
@@ -59,11 +59,11 @@ I am always learning, exploring modern technologies, and open to collaboration o
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mehediinf&theme=tokyonight_duo&hide_border=false&date_format=j%20M%5B%20Y%5D&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mehedinative&theme=tokyonight_duo&hide_border=false&date_format=j%20M%5B%20Y%5D&border_radius=10" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mehediinf&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedinative&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehediinf&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedinative&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
@@ -80,4 +80,3 @@ I am always learning, exploring modern technologies, and open to collaboration o
 
 ---
 
-> 🧠 “Great web applications aren’t just coded — they’re designed with performance, scalability, and user experience in mind.” — *Mehedi Hasan*  
